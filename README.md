@@ -1,4 +1,5 @@
 # Web Scraping with Scrapy and Selenium
+![Untitled](https://github.com/Quantabhi/Scrapy-with-Selenium/assets/117148458/902bd470-238e-4a55-9dd1-7d6702ab358a)
 
 ## Objective
 The reason to use Scrapy and Selenium in combination is that Selenium extracts the links, and Scrapy follows all the links to scrape the data. Using Selenium alone takes more time, but the combination is much faster.
